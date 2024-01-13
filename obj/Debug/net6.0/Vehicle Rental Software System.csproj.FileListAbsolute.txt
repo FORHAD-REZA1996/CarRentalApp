@@ -1,0 +1,15 @@
+/Users/reza/Projects/Vehicle Rental Software System/bin/Debug/net6.0/Vehicle Rental Software System
+/Users/reza/Projects/Vehicle Rental Software System/bin/Debug/net6.0/Vehicle Rental Software System.deps.json
+/Users/reza/Projects/Vehicle Rental Software System/bin/Debug/net6.0/Vehicle Rental Software System.runtimeconfig.json
+/Users/reza/Projects/Vehicle Rental Software System/bin/Debug/net6.0/Vehicle Rental Software System.dll
+/Users/reza/Projects/Vehicle Rental Software System/bin/Debug/net6.0/Vehicle Rental Software System.pdb
+/Users/reza/Projects/Vehicle Rental Software System/obj/Debug/net6.0/Vehicle Rental Software System.csproj.AssemblyReference.cache
+/Users/reza/Projects/Vehicle Rental Software System/obj/Debug/net6.0/Vehicle Rental Software System.GeneratedMSBuildEditorConfig.editorconfig
+/Users/reza/Projects/Vehicle Rental Software System/obj/Debug/net6.0/Vehicle Rental Software System.AssemblyInfoInputs.cache
+/Users/reza/Projects/Vehicle Rental Software System/obj/Debug/net6.0/Vehicle Rental Software System.AssemblyInfo.cs
+/Users/reza/Projects/Vehicle Rental Software System/obj/Debug/net6.0/Vehicle Rental Software System.csproj.CoreCompileInputs.cache
+/Users/reza/Projects/Vehicle Rental Software System/obj/Debug/net6.0/Vehicle Rental Software System.dll
+/Users/reza/Projects/Vehicle Rental Software System/obj/Debug/net6.0/refint/Vehicle Rental Software System.dll
+/Users/reza/Projects/Vehicle Rental Software System/obj/Debug/net6.0/Vehicle Rental Software System.pdb
+/Users/reza/Projects/Vehicle Rental Software System/obj/Debug/net6.0/Vehicle Rental Software System.genruntimeconfig.cache
+/Users/reza/Projects/Vehicle Rental Software System/obj/Debug/net6.0/ref/Vehicle Rental Software System.dll
