@@ -186,8 +186,3 @@ The design effectively adheres to the defined system requirements, offering a mo
 
 
 
-
-
-
-
-![image](https://github.com/FORHAD-REZA1996/CarRentalApp/assets/54482125/69a5d44a-21f8-48fe-901c-54b93ad57b50)
